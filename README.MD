@@ -5,7 +5,7 @@
 ### Why yet another utility library?
 
 I'll be honest, I _love_ Lodash in my node projects. Even though I could
-implment many of the features myself, it's just convenient to have it all in a
+implement many of the features myself, it's just convenient to have it all in a
 simple package that is pretty standard. But it's not without it's flaws,
 especially when going from Node to Deno.
 
